@@ -14,6 +14,7 @@ I am an analytical thinker who is always looking for & thinking about the 'why' 
 I have experience in and a passion for forecasting, analytics and leadership.
 
 **Skills & competencies**
+
 Python and associated libraries including NumPy, SciPy and Pandas
 
 Jupyter Notebook
