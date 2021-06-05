@@ -1,8 +1,11 @@
 # Portfolio
 
 **Resume of Ahren Lewis**
-082 605 1383 /n
+
+082 605 1383
+
 lewis.ahren@gmail.com
+
 Linkedin: https://www.linkedin.com/in/ahren-lewis-30834186/
 
 **Bio**
