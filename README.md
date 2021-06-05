@@ -15,11 +15,17 @@ I have experience in and a passion for forecasting, analytics and leadership.
 
 **Skills & competencies**
 Python and associated libraries including NumPy, SciPy and Pandas
+
 Jupyter Notebook
+
 Microsoft Excel
+
 Microsoft Office
+
 Customer Service
-Management
+
+Leadership & Management
+
 Public Speaking
 
 **Work Experience**
